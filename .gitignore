@@ -1,0 +1,4 @@
+*.pyc
+credentials.py
+chromedriver
+.DS_Store
